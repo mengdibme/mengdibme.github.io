@@ -69,9 +69,9 @@ email: "mzha3990@gmail.com"
 #- Visitors
 ---
 
-Hello, welcome to my page! 😉
+<!-- Hello, welcome to my page! 😉
 
-I am Mengdi Zhang, a proud alumna of [the Jacobs School of Medicine and Biomedical Sciences at University at Buffalo](https://medicine.buffalo.edu/), where I earned a B.S. in Biomedical Sciences (2020) and an M.S. in Biomedical Engineering (2022). My Master's research focused on Exosomal microRNA delivery, guided by [Dr. Yun Wu](https://medicine.buffalo.edu/faculty/profile.html?ubit=ywu32), laid the foundation for my current role.
+I am Mengdi Zhang, a proud alumna of [the Jacobs School of Medicine and Biomedical Sciences at University at Buffalo](https://medicine.buffalo.edu/), where I earned a B.S. in Biomedical Sciences (2020) and an M.S. in Biomedical Engineering (2022). My Master's research focused on Exosomal microRNA delivery, guided by [Dr. Yun Wu](https://medicine.buffalo.edu/faculty/profile.html?ubit=ywu32), laid the foundation for my current role. -->
 
 As a Research Associate II at [Astellas](https://www.astellas.com/us/), I'm part of the mRNA Therapy Team in [Applied Research and Operations division](https://www.astellas.com/en/innovation/drug-research). My work centers on pioneering platform technologies to revolutionize drug discovery. I have a keen interest in the **targeted nanoparticle delivery of nucleic acids**, especially with mRNA.
 

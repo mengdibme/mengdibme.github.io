@@ -1,16 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mengdi Zhang</title>
     <link>/author/mengdi-zhang/</link>
-      <atom:link href="/author/mengdi-zhang/index.xml" rel="self" type="application/rss+xml" />
-    <description>Mengdi Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
-    <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+    <description>Recent content on Mengdi Zhang</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/author/mengdi-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
       <title>Mengdi Zhang</title>
       <link>/author/mengdi-zhang/</link>
-    </image>
-    
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/author/mengdi-zhang/</guid>
+      <description>As a Research Associate II at Astellas, I&amp;rsquo;m part of the mRNA Therapy Team in Applied Research and Operations division. My work centers on pioneering platform technologies to revolutionize drug discovery.</description>
+    </item>
   </channel>
 </rss>
